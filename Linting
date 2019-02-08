@@ -1,0 +1,17 @@
+Linting
+
+
+1. Linting is the process of checking the source code for Programmatic as well as Stylistic errors. This is most helpful in identifying some common and uncommon mistakes that are made during coding.
+
+2. A Lint or a Linter is a program that supports linting (verifying code quality). They are available for most languages like JavaScript, CSS, HTML, Python, etc..
+
+
+3. Linting will run through your source code to find
+
+ -  formatting discrepancy 
+ -  non-adherence to coding standards and conventions 
+ -  pinpointing possible logical errors in your program
+Running a Lint program over your source code, helps to ensure that source code is legible, readable, less polluted and easier to maintain.
+
+
+4. lint is a tool that is used to mark the source code with some suspicious and non-structural (may cause bug). It is a static code analysis tool in C at the beginning.Now it became the generic term used to describe the software analysis tool that mark the suspicious code.

@@ -1,8 +1,0 @@
-What is Kebab Case?
-
-In kebab case, all letters are written in lower case and the words are separated by a hyphen or minus sign. "Kebab Case" becomes "kebab-case". The hyphen makes it look as if the words had been impaled on a skewer - like the meat pieces or vegetables on a kebab skewer. The kebab notation is often used as a convention for naming filenames. As a convention for the notation of identifiers in programming languages, kebab case is often inaapropriate because the minus sign is usually the subtraction operator. CamelCase or snake_case is the best choice here.
-Example for Kebab Case
-
-Input	The Kebab Case Converter converts text to Kebab Case.
-
-Output	the-kebab-case-converter-converts-text-to-kebab-case

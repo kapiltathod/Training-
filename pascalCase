@@ -1,7 +1,0 @@
-pascalCase
-
-
-
-Pascal Case: This means that the first letter of every word in the name is capitalized. In Pascal Case if acronym exists in the word then only the first letter of that acronym should be capital. Eg: ThisWordIsInPascalCase
-
-Camel Case: It is the same as Pascal Case, but the first letter of the first word is lowercased. Eg: thisWordIsInCamelCase
